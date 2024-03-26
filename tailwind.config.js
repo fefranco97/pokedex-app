@@ -55,7 +55,8 @@ module.exports = {
           fire: '#FF6464',
           bug: '#C9FF84',
           water: '#9FF3FF',
-          flying: '',
+          flying:
+            'linear-gradient(180deg, rgba(203,233,255,1) 0%, rgba(146,206,249,1) 50%, rgba(34,153,238,1) 100%)',
           poison: '#D89CFD',
           normal: '#CBCBCB',
           rock: '#CFC06F',
@@ -75,7 +76,8 @@ module.exports = {
           fire: '#EB6C6C',
           bug: '#91AC22',
           water: '#009ACB',
-          flying: '',
+          flying:
+            'linear-gradient(180deg, rgba(203,233,255,1) 0%, rgba(146,206,249,1) 50%, rgba(34,153,238,1) 100%)',
           poison: '#7E00CB',
           normal: '#B6B6B6',
           rock: '#857D57',
